@@ -1,5 +1,7 @@
 # Herezano Scrap Trading Website
 
+Converted from the original Portfolio project into a static Herezano Scrap Trading site.
+
 ## Contact
 Eugene A Herezano
 - 0991396049
